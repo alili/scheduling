@@ -1,0 +1,26 @@
+{
+  "name": "scheduling",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.2",
+    "pinia": "^2.0.14",
+    "pug": "^3.0.2",
+    "stylus": "^0.57.0",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.15",
+    "vue-router@next": "link:vue/vue-router@next"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "unplugin-auto-import": "^0.8.5",
+    "unplugin-vue-components": "^0.19.6",
+    "vite": "^2.9.9"
+  }
+}
