@@ -14,8 +14,7 @@
     "pug": "^3.0.2",
     "stylus": "^0.57.0",
     "vue": "^3.2.25",
-    "vue-router": "^4.0.15",
-    "vue-router@next": "link:vue/vue-router@next"
+    "vue-router": "^4.0.15"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.3",
